@@ -6,13 +6,15 @@ This is just a random text in  the body
 
 If you want **bold** text, just srround the words with double star.
 
+*Italix* single star surround
+
 ### This is a level 3 heading
 
 If you want to make a list:
 
 - item 1
 - item 2
-- item 3
+- - item 3
 
 If you want ti make a numbered list:
 
